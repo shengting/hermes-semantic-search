@@ -1,0 +1,6 @@
+name: semantic-search
+version: 2.0.0
+description: "BGE-M3 semantic search over Hermes session history via local Ollama. Supplements session_search (FTS5 keyword) with vector similarity matching — finds sessions by concept, not just exact keywords."
+author: "yayu + Hermes"
+kind: standalone
+hooks: []
