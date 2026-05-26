@@ -1,5 +1,7 @@
 # hermes-semantic-search
 
+English | [中文](README.zh.md)
+
 A [Hermes Agent](https://github.com/NousResearch/hermes-agent) plugin that adds **BGE-M3 semantic search** over your session history.
 
 Hermes's built-in `session_search` uses SQLite FTS5 (keyword matching). This plugin adds a second search path using dense vector embeddings — so you can find past conversations by concept, not just exact words.
